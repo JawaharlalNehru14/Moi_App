@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "name": "Jack S",
+      "native": "Varaganoor",
+      "gift": "6001"
+    },
+    {
+      "id": "2",
+      "name": "Sankar P",
+      "native": "IMP",
+      "gift": "2001"
+    },
+    {
+      "id": "3",
+      "name": "Devansena",
+      "native": "KM Patti",
+      "gift": "20000"
+    },
+    {
+      "id": "4",
+      "name": "Hashni",
+      "native": "KM Patti",
+      "gift": "2000"
+    }
+  ]
+}
